@@ -43,7 +43,7 @@ gem 'devise','3.4.1'
 # Use stripe for handling user payments
 gem 'stripe','1.16.1'
 
-# Use figare to hide secret keys
+# Use figaro to hide secret keys
 gem 'figaro','1.0.0'
 
 # Use paperclip for image uploads
